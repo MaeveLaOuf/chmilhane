@@ -1,4 +1,4 @@
-### Hello ! I'm **Milhane** 👋
+### Hello! I'm **Milhane** 👋
 - 🔭 I’m currently working on **Diamond DRM**.
 - 🌱 I’m currently learning **web development**.
 - 💬 Ask me about **[Discord](https://discord.gg/HWNC7wvcnT)**.
