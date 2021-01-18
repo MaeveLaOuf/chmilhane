@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmilhane">
+
 ### Hello! I'm **Milhane** 👋
 - 🔭 I’m currently working on **Diamond DRM**.
 - 🌱 I’m currently learning **web development**.
