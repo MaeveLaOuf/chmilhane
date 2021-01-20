@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on **Diamond DRM**.
 - 🌱 I’m currently learning **web development**.
 
-- 💬 Meet me on [discord](http://discord.com/users/709064224252624936) DARZ#3861<br>
+- 💬 Meet me on [discord](http://discord.com/users/709064224252624936) (DARZ#3861)<br>
