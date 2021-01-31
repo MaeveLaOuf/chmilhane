@@ -1,3 +1,5 @@
+![banner](./darz.png)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmilhane">
 
 # Hello! I'm **Milhane** 👋
