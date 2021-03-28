@@ -8,18 +8,17 @@
 - B
 - C
 
+## 🧠 **Skills**
+- 💻 JavaScript, Lua, Python, & C#
+- ⚙️ React & Vue
+- 💼 HTML & CSS
+- 📚 MySQL & Mongo
+
+## ☎️ **Contact**
+- [darz.#5467](https://discord.com/users/709064224252624936) on Discord
+
 ## ✨ **Miscellaneous**
-* <details>
-    <summary><b>💻 Languages</b/></summary>
-</details>
-
-* <details>
-    <summary><b>🧠 Tools</b/></summary>
-</details>
-
-* <details>
-    <summary><b>⚙️ Statistics</b/></summary>
-</details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chmilhane&show_icons=true&theme=dracula)
 
 ---
 
