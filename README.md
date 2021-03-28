@@ -8,8 +8,6 @@
 - B
 - C
 
-<br/>
-
 ## ✨ **Miscellaneous**
 * <details>
     <summary><b>💻 Languages</b/></summary>
