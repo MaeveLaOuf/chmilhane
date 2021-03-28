@@ -1,5 +1,4 @@
 <img align="center" width="100%" src="assets/svg/header.svg">
-<br/>
 
 ---
 
