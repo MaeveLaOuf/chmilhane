@@ -1,7 +1,4 @@
-<!-- ![](https://github.com/chmilhane/chmilhane/raw/main/darz.png) -->
-<!-- <br/> -->
-
-<img src="assets/svg/header.svg">
+<img align="center" src="assets/svg/header.svg">
 <hr/>
 
 <!-- 
