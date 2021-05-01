@@ -2,11 +2,6 @@
 
 ---
 
-## 👾  **About Me**
-- A
-- B
-- C
-
 ## 🧠 **Skills**
 - 💻 JavaScript, Lua, Python, & C#
 - ⚙️ React & Vue
